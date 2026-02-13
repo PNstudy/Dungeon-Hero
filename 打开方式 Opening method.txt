@@ -1,0 +1,8 @@
+1.打开“code”文件夹
+2.运行“双击此文件运行❗”这个批处理文件（.bat）
+3.游戏应该已经打开，如果没有打开请在“code”文件夹内打开cmd并输入“python game.py”指令。
+
+1. Open the "code" folder.
+2. Run the batch file named "Double-click this file to run❗" (with the .bat extension).
+3. The game should be already open. If it's not, please open the cmd in the "code" folder and enter the command "python game.py".
+Note: The author was too lazy to make an English version. The next version should include it.
